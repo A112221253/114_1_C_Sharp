@@ -16,5 +16,10 @@ namespace Tutorial_2_4
         {
             InitializeComponent();
         }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
