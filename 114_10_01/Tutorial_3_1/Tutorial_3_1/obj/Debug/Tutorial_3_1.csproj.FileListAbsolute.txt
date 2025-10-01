@@ -1,0 +1,11 @@
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\bin\Debug\Tutorial_3_1.exe.config
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\bin\Debug\Tutorial_3_1.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\bin\Debug\Tutorial_3_1.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\Tutorial_3_1.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\Tutorial_3_1.Form1.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\Tutorial_3_1.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\Tutorial_3_1.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\Tutorial_3_1.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\Tutorial_3_1.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\Tutorial_3_1.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_01\Tutorial_3_1\Tutorial_3_1\obj\Debug\Tutorial_3_1.exe.config
