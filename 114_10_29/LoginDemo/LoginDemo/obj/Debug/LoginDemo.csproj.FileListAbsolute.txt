@@ -1,0 +1,11 @@
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\LoginDemo\LoginDemo\bin\Debug\LoginDemo.exe.config
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\LoginDemo\LoginDemo\bin\Debug\LoginDemo.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\LoginDemo\LoginDemo\bin\Debug\LoginDemo.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\LoginDemo\LoginDemo\obj\Debug\LoginDemo.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\LoginDemo\LoginDemo\obj\Debug\LoginDemo.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\LoginDemo\LoginDemo\obj\Debug\LoginDemo.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\LoginDemo\LoginDemo\obj\Debug\LoginDemo.exe.config
+C:\Users\m303\Desktop\114_1_C_Sharp\114_10_29\LoginDemo\LoginDemo\obj\Debug\LoginDemo.Form1.resources
