@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_11_05\\CheckBoxDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AD4C4D-F10B-47A9-87CE-4F614CD9E57C}|CheckBoxDemo\\CheckBoxDemo.csproj|c:\\users\\m303\\desktop\\114_1_c_sharp\\114_11_05\\checkboxdemo\\checkboxdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9AD4C4D-F10B-47A9-87CE-4F614CD9E57C}|CheckBoxDemo\\CheckBoxDemo.csproj|solutionrelative:checkboxdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9AD4C4D-F10B-47A9-87CE-4F614CD9E57C}|CheckBoxDemo\\CheckBoxDemo.csproj|c:\\users\\m303\\desktop\\114_1_c_sharp\\114_11_05\\checkboxdemo\\checkboxdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D9AD4C4D-F10B-47A9-87CE-4F614CD9E57C}|CheckBoxDemo\\CheckBoxDemo.csproj|solutionrelative:checkboxdemo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_11_05\\CheckBoxDemo\\CheckBoxDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "CheckBoxDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_11_05\\CheckBoxDemo\\CheckBoxDemo\\Form1.cs",
+              "RelativeToolTip": "CheckBoxDemo\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T04:23:47.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_11_05\\CheckBoxDemo\\CheckBoxDemo\\Form1.cs",
+              "RelativeDocumentMoniker": "CheckBoxDemo\\Form1.cs",
+              "ToolTip": "C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_11_05\\CheckBoxDemo\\CheckBoxDemo\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "CheckBoxDemo\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T04:17:46.272Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

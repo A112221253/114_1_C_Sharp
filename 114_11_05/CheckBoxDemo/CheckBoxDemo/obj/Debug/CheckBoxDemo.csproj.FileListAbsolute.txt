@@ -1,0 +1,11 @@
+C:\Users\m303\Desktop\114_1_C_Sharp\114_11_05\CheckBoxDemo\CheckBoxDemo\bin\Debug\CheckBoxDemo.exe.config
+C:\Users\m303\Desktop\114_1_C_Sharp\114_11_05\CheckBoxDemo\CheckBoxDemo\bin\Debug\CheckBoxDemo.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_11_05\CheckBoxDemo\CheckBoxDemo\bin\Debug\CheckBoxDemo.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_11_05\CheckBoxDemo\CheckBoxDemo\obj\Debug\CheckBoxDemo.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_11_05\CheckBoxDemo\CheckBoxDemo\obj\Debug\CheckBoxDemo.Form1.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_11_05\CheckBoxDemo\CheckBoxDemo\obj\Debug\CheckBoxDemo.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_C_Sharp\114_11_05\CheckBoxDemo\CheckBoxDemo\obj\Debug\CheckBoxDemo.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_11_05\CheckBoxDemo\CheckBoxDemo\obj\Debug\CheckBoxDemo.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_C_Sharp\114_11_05\CheckBoxDemo\CheckBoxDemo\obj\Debug\CheckBoxDemo.exe
+C:\Users\m303\Desktop\114_1_C_Sharp\114_11_05\CheckBoxDemo\CheckBoxDemo\obj\Debug\CheckBoxDemo.pdb
+C:\Users\m303\Desktop\114_1_C_Sharp\114_11_05\CheckBoxDemo\CheckBoxDemo\obj\Debug\CheckBoxDemo.exe.config
