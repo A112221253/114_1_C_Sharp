@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{2D1BABEF-BE44-419A-8354-A131D9976B1D}|Tutorial_2_5\\Tutorial_2_5.csproj|solutionrelative:tutorial_2_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2D1BABEF-BE44-419A-8354-A131D9976B1D}|Tutorial_2_5\\Tutorial_2_5.csproj|c:\\users\\m303\\desktop\\114_1_c_sharp\\114_09_24\\tutorial_2_5\\tutorial_2_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2D1BABEF-BE44-419A-8354-A131D9976B1D}|Tutorial_2_5\\Tutorial_2_5.csproj|C:\\Users\\m303\\Desktop\\114_1_C_Sharp\\114_09_24\\Tutorial_2_5\\tutorial_2_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2D1BABEF-BE44-419A-8354-A131D9976B1D}|Tutorial_2_5\\Tutorial_2_5.csproj|solutionrelative:tutorial_2_5\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -33,6 +33,10 @@
               "WhenOpened": "2025-09-24T04:50:11.706Z",
               "IsPinned": true,
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
